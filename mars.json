@@ -1,0 +1,58 @@
+{
+    "news": {
+        "title": [
+            "New Selfie Shows Curiosity, the Mars Chemist"
+        ],
+        "summary": [
+            "The NASA rover performed a special chemistry experiment at the location captured in its newest self-portrait."
+        ]
+    },
+    "feat_img": {
+        "title": "Featured Mars Image",
+        "url": "https://spaceimages-mars.comimage/featured/mars3.jpg"
+    },
+    "mars_facts": {
+        "Mars - Earth Comparison": [
+            "Mars",
+            "Earth"
+        ],
+        "Diameter:": [
+            "6,779 km",
+            "12,742 km"
+        ],
+        "Mass:": [
+            "6.39 \u00d7 10^23 kg",
+            "5.97 \u00d7 10^24 kg"
+        ],
+        "Moons:": [
+            "2",
+            "1"
+        ],
+        "Distance from Sun:": [
+            "227,943,824 km",
+            "149,598,262 km"
+        ],
+        "Length of Year:": [
+            "687 Earth days",
+            "365.24 days"
+        ],
+        "Temperature:": [
+            "-87 to -5 \u00b0C",
+            "-88 to 58\u00b0C"
+        ]
+    },
+    "hemi_img": {
+        "title": [
+            "Cerberus Hemisphere Enhanced",
+            "Schiaparelli Hemisphere Enhanced",
+            "Syrtis Major Hemisphere Enhanced",
+            "Valles Marineris Hemisphere Enhanced"
+        ],
+        "url": [
+            "https://marshemispheres.com/cerberus.html",
+            "https://marshemispheres.com/schiaparelli.html",
+            "https://marshemispheres.com/syrtis.html",
+            "https://marshemispheres.com/valles.html"
+        ]
+    }
+}
