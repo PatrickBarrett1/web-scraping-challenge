@@ -31,8 +31,8 @@ collection = mongo_db.mars_data
 #                   default route
 @app.route("/")
 def index():
-    mars = collection.find_one()
-    return render_template("./index.html", mars=mars)
+    #mars = collection.find_one()
+    return render_template("./index.html")
 
 # scrape route
 @app.route("/scrape")

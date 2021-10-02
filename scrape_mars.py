@@ -134,5 +134,7 @@ def scrape():
     browser.quit()
     return mars_dict
 
-with open('mars.json', 'w') as outfile:
-    json.dump(scrape(), outfile, indent=4)
+#with open('mars.json', 'w') as outfile:
+#    json.dump(scrape(), outfile, indent=4)
+
+print(scrape())
